@@ -1,0 +1,26 @@
+*.log
+wp-config.php
+wp-content/mu-plugins/
+wp-content/plugins/hello.php
+wp-content/uploads
+
+#Plugind
+wp-content/cache
+
+# Updraft
+wp-content/updraft/*.txt
+wp-content/updraft/themes-old
+wp-content/updraft/plugins-old
+wp-content/updraft/uploads-old
+wp-content/themes-old
+wp-content/plugins-old
+wp-content/uploads-old
+wp-content/languages-old
+wp-content/index.php-old
+wp-content/ngg-old
+
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
